@@ -2,19 +2,19 @@
 Implementation of an event management system using sql as database
 
 
-##🎵 Music Fest – Event Management System##
+## 🎵 Music Fest – Event Management System##
 
 A full-stack database-driven application for managing music festivals efficiently.
 
-##📌 Overview##
+## 📌 Overview##
 
 The Music Fest – Event Management System is a relational-database application that streamlines the planning and management of music festivals, concerts, and large-scale cultural events.
 It provides complete automation for event scheduling, ticketing, artist management, venue allocation, sponsorship handling, attendee registration, and staff assignment.
 
 Built using MySQL (backend) and Python Tkinter (frontend GUI), the system ensures data consistency, reduces manual errors, and offers real-time insights through triggers, functions, procedures, and reports.
 
-##🚀 Features##
-#🎫 Event & Venue Management#
+## 🚀 Features##
+# 🎫 Event & Venue Management#
 
 Create, update, delete, and view events
 
@@ -22,7 +22,7 @@ Venue scheduling with clash-detection triggers
 
 Automatic ticket generation based on venue capacity
 
-#👥 Attendee & Ticketing Portal#
+# 👥 Attendee & Ticketing Portal#
 
 Attendee registration
 
@@ -30,7 +30,7 @@ Ticket purchase with automatic status update
 
 Real-time ticket availability
 
-#🎤 Artist & Staff Management#
+# 🎤 Artist & Staff Management#
 
 Artist performance mapping
 
@@ -38,7 +38,7 @@ Staff assignment with shift handling
 
 Duplicate assignment prevention via triggers
 
-#💼 Sponsorship Management#
+# 💼 Sponsorship Management#
 
 Sponsor event mapping
 
@@ -46,7 +46,7 @@ Contribution tracking
 
 Automatic validation for duplicates
 
-#📊 Admin Dashboard & Reports#
+# 📊 Admin Dashboard & Reports#
 
 Powered using stored procedures, functions, joins & aggregates:
 
@@ -64,7 +64,7 @@ Attendee demographics
 
 Sponsorship contributions
 
-##🗄️ Database Components##
+## 🗄️ Database Components##
 
 Fully normalized relational schema
 
@@ -76,7 +76,7 @@ Views, joins, aggregates, and nested queries
 
 Complete CRUD support for all entities
 
-##🧰 Technologies Used##
+## 🧰 Technologies Used##
 
 Database: MySQL
 
