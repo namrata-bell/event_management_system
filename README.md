@@ -1,7 +1,3 @@
-# event_management_system
-Implementation of an event management system using sql as database
-
-
 ## 🎵 Music Fest – Event Management System
 
 A full-stack database-driven application for managing music festivals efficiently.
